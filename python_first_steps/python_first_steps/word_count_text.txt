@@ -1,0 +1,6 @@
+r1,c1, c2, c3, c4, c5, c6
+r2, a, b,   c,  d,  e,  f
+r3,  g, h,  i,  j,  k,  l
+r4,  m, n,  o,  p,  q,  r
+r5,  s, t,  u,  v,  w,  x
+r6   y, z,  a,  b,  c,  d
