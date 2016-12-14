@@ -58,18 +58,7 @@ def powerSet(lists):  #with loops works
 		for j in x:
 			x = x + [j + [i]]
 	return x
-  
-def powerSet2(lists): #doesnt work
-	if lists== []:
-		return []
-	result =[[]]
-	number = []
-	for x in lists:	
-		for y in result:		
-			number.append(y + [x])
-		result += number
-	return result
-
+ 
 def powerSet3(lists): #recursively attempt doesnt work
 	if len(lists) == 0:
 		return []		
